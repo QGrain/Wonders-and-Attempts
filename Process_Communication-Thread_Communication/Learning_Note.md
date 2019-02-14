@@ -1,12 +1,10 @@
 # Learning_Note
 
-# 
-
 [TOC]
 
-# InterProcess  and Thread Communication
+# Process and Thread Communication
 
-## InterProcess Communication
+## Process Communication
 
 ### Shared Memory
 
